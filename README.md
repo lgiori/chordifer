@@ -1,2 +1,2 @@
 # chordifer
-Get a right chord on any instrument
+Get the right chord on any instrument
